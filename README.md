@@ -68,3 +68,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+// stable coin
+// stable coin are binded to real world currency like usd
+
+// dummy tether for our project
+// erc 20 standard for creating this tether token
+// dummy token that we will offer to user for staking there tether
